@@ -1,0 +1,8 @@
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\bin\Debug\ExampleConsole_01.exe.config
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\bin\Debug\ExampleConsole_01.exe
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\bin\Debug\ExampleConsole_01.pdb
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\obj\Debug\ExampleConsole_01.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\obj\Debug\ExampleConsole_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\obj\Debug\ExampleConsole_01.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\obj\Debug\ExampleConsole_01.exe
+C:\Users\kiko1\source\repos\AsyncAwait\ExampleConsole_01\obj\Debug\ExampleConsole_01.pdb
