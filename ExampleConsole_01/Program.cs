@@ -11,12 +11,15 @@ namespace ExampleConsole_01
     {
         static void Main(string[] args)
         {
-
+            Math();
+            Console.ReadLine();
         }
 
         static void Math()
         {
-
+            Console.WriteLine("Start");
+            Thread.Sleep(5000);
+            Console.WriteLine("Finish");
         }
     }
 }
