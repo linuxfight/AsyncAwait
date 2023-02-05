@@ -11,8 +11,13 @@ namespace ExampleConsole_01
     {
         static void Main(string[] args)
         {
-            Math();
+            SyncMath();
             Console.ReadLine();
+        }
+
+        static void SyncMath()
+        {
+            Math();
         }
 
         static void Math()
